@@ -1,3 +1,13 @@
+## 👨‍💻 My Role & Contributions
+
+**Role: Frontend Developer**
+
+- Designed and developed the user interface using HTML and CSS.
+- Created the document upload and question-answering interface.
+- Improved the visual layout and user experience.
+- Performed frontend testing and debugging.
+
+
 # AI Document Summariser (Local RAG + Flask + Ollama + MongoDB Atlas)
 
 A full-stack, AI-powered **document understanding system** that performs:
